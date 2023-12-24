@@ -1,5 +1,5 @@
 <h2 align="center">
-MoveVerse - Ultimate Movie and TV Show Discovery Platform</h2>
+MovieVerse - Ultimate Movie and TV Show Discovery Platform</h2>
 
 <p>MovieVerse is a web application built using React and Redux that allows users to search for movies and TV shows, view popular, trending, and upcoming releases on a daily and weekly basis, and explore detailed information about each title, including trailers and related videos.</p>
 
